@@ -1,7 +1,7 @@
 import { defineConfig } from 'tsdown'
 
 export default defineConfig({
-  entry: ['src/index.ts'],
+  entry: ['client/js/index.ts'],
   platform: 'browser',
   globalName: 'AdaptiveSingleChoice',
   outDir: 'dist',

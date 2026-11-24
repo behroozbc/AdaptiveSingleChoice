@@ -12,6 +12,8 @@
     "typecheck": "tsc --noEmit"
   },
   "devDependencies": {
+    "@tsdown/css": "^0.23.7",
+    "sass": "^1.108.2",
     "tsdown": "^0.23.7",
     "typescript": "^7.0.2"
   }
